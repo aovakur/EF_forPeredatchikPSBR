@@ -1,0 +1,13 @@
+C:\Users\Andrey\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\Andrey\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\Andrey\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\Andrey\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\EntityFramework.dll
+C:\Users\Andrey\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andrey\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\EntityFramework.xml
+C:\Users\Andrey\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andrey\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Andrey\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CopyComplete
+C:\Users\Andrey\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\Andrey\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
